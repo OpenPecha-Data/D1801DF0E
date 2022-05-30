@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   eacbfa42b8e04090aeff08072832a5b8:
     parts: {}
+    work_id: N2323
     span:
-    - vol: 37
+    - base: faa0
       start: 0
       end: 11988
-    work_id: N2323
